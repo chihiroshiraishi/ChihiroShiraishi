@@ -1,25 +1,45 @@
-## Bem-vindo(a) ao meu universo mágico! ✨
+# Luiz
 
-Oi, eu sou Luiz ou conhecido como Shiro e este é o meu cantinho especial aqui no GitHub. Sou apaixonado por desafios, programação e trazer um toque de diversão para tudo que faço. 🚀
+Backend developer com background em análise de sistemas — a maioria dos devs júnior nunca sentou numa reunião com cliente para entender por que a regra de negócio existe. Eu sentei, documentei, e agora escrevo o código que implementa essa regra.
 
-### Sobre mim:
+## Diferencial
 
-- 👩‍💻 Desenvolvedor entusiasmado e curioso em constante aprendizado.
-- 🎉 Amante de tecnologia, filmes, música, games e tudo que envolve criatividade.
-- ✨ Acredito que o código pode ser uma forma de arte e procuro criar soluções mágicas.
+Anos implementando sistemas B2B me ensinaram onde software falha na prática: não é falta de sintaxe, é gap entre o que o negócio precisa e o que o código assume. Levo essa leitura para cada linha que escrevo.
 
-### Projetos incríveis que você encontrará aqui:
+- Modelagem de banco de dados pensada a partir de regra de negócio real, não de exercício acadêmico
+- Comunicação técnica que sobrevive a uma reunião com stakeholder não-técnico
+- Código que documenta a decisão, não só a implementação
 
+## Stack
+
+`Java` `SQL` `PostgreSQL` `Git` `Lógica de programação`
+
+## Projetos
+
+<!-- Preencher com os projetos reais construídos durante a trilha 
+- **[nome-do-projeto](link)** — o problema de negócio que resolve e por que a modelagem foi essa escolha.
+- **[nome-do-projeto](link)** — o problema de negócio que resolve e por que a modelagem foi essa escolha.
+-->
 [On maintence]
 
-### Vamos juntos nessa aventura?
+## Próximo passo
 
-Se você está procurando por colaborações emocionantes ou simplesmente deseja bater um papo sobre programação e coisas divertidas, fique à vontade para entrar em contato. Estou sempre pronto(a) para novas conexões e desafios mágicos!
+Fullstack. A mesma lógica de entender o problema antes de escrever a solução, aplicada ao frontend.
 
-Divirta-se explorando meus projetos e lembre-se: a magia acontece quando a imaginação encontra o código! ✨🔮✨
+## Contato
 
+- LinkedIn: [link]
+- E-mail: [e-mail]
 
-<!---
-ChihiroShiraishi/ChihiroShiraishi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+Fora do código: Palworld nas horas vagas, e dois Maine Coon roubando minha atenção enquanto estudo.
+
+---
+<!--
+NOTA PRIVADA (remover antes de publicar):
+Publicar somente quando a trilha Java + Lógica estiver de fato concluída.
+Antes de publicar, revisar: os projetos listados existem e estão funcionais?
+Os projetos escolhidos realmente demonstram leitura de regra de negócio, ou são exercícios genéricos?
+Se forem genéricos, o diferencial do texto fica sem prova — trocar por projeto que mostre isso de fato.
+-->
