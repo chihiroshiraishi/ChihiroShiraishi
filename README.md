@@ -12,7 +12,7 @@ Cinco anos vendo onde software falha na prática, em produtos B2C de alto volume
 
 ## Stack
 
-`Java` `SQL` `PostgreSQL` `Git` `Lógica de programação`
+`Java` `SQL` `PostgreSQL` `Git`
 
 ## Projetos
 
