@@ -1,10 +1,10 @@
 # Luiz
 
-Backend developer com background em análise de sistemas — a maioria dos devs júnior nunca sentou numa reunião com cliente para entender por que a regra de negócio existe. Eu sentei, documentei, e agora escrevo o código que implementa essa regra.
+Backend developer com background em análise de sistemas — a maioria dos devs em geral nunca sentaram numa reunião com cliente para entender por que a regra de negócio existe. Eu sentei, documentei, e agora escrevo o código que implementa essa regra.
 
 ## Diferencial
 
-Anos implementando sistemas B2B me ensinaram onde software falha na prática: não é falta de sintaxe, é gap entre o que o negócio precisa e o que o código assume. Levo essa leitura para cada linha que escrevo.
+Anos implementando sistemas B2B e B2C me ensinaram onde software falha na prática: não é falta de sintaxe, é gap entre o que o negócio precisa e o que o código assume. Levo essa leitura para cada linha que escrevo.
 
 - Modelagem de banco de dados pensada a partir de regra de negócio real, não de exercício acadêmico
 - Comunicação técnica que sobrevive a uma reunião com stakeholder não-técnico
