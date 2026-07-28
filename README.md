@@ -1,14 +1,14 @@
 # Luiz
 
-Backend developer com background em análise de sistemas — a maioria dos devs em geral nunca sentaram numa reunião com cliente para entender por que a regra de negócio existe. Eu sentei, documentei, e agora escrevo o código que implementa essa regra.
+Backend developer (pleno) com 5 anos de experiência em análise de sistemas, majoritariamente B2C. Não venho só da documentação da regra de negócio — venho também do código: implementei funcionalidades em JavaScript e trabalhei lado a lado com desenvolvedores Java na construção das soluções.
 
 ## Diferencial
 
-Anos implementando sistemas B2B e B2C me ensinaram onde software falha na prática: não é falta de sintaxe, é gap entre o que o negócio precisa e o que o código assume. Levo essa leitura para cada linha que escrevo.
+Cinco anos vendo onde software falha na prática, em produtos B2C de alto volume de uso: o problema raramente é sintaxe, é o gap entre o que o negócio precisa e o que o código assume. Levo essa leitura — e experiência prática de implementação — para cada linha que escrevo.
 
 - Modelagem de banco de dados pensada a partir de regra de negócio real, não de exercício acadêmico
+- Implementação de funcionalidades em JavaScript integradas a times de backend Java
 - Comunicação técnica que sobrevive a uma reunião com stakeholder não-técnico
-- Código que documenta a decisão, não só a implementação
 
 ## Stack
 
@@ -18,9 +18,9 @@ Anos implementando sistemas B2B e B2C me ensinaram onde software falha na práti
 
 <!-- Preencher com os projetos reais construídos durante a trilha 
 - **[nome-do-projeto](link)** — o problema de negócio que resolve e por que a modelagem foi essa escolha.
-- **[nome-do-projeto](link)** — o problema de negócio que resolve e por que a modelagem foi essa escolha.
--->
-[On maintence]
+- **[nome-do-projeto](link)** — o problema de negócio que resolve e por que a modelagem foi essa escolha. -->
+
+-->[On maintence]
 
 ## Próximo passo
 
