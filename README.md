@@ -28,8 +28,8 @@ Fullstack. A mesma lógica de entender o problema antes de escrever a solução,
 
 ## Contato
 
-- LinkedIn: [link]
-- E-mail: [e-mail]
+- LinkedIn: [[link](https://www.linkedin.com/in/luiz-carlos-shiraishi-junior-715520220)]
+- E-mail: [[e-mail](dev.luizshiraishi@gmail.com)]
 
 ---
 
